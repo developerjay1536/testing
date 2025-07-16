@@ -1,2 +1,2 @@
 print("Jay Joshi")
-print("Wassup Buddy!! v143")
+print("MISS YOU BUDDY! v143")
